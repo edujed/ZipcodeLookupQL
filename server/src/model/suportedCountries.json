@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Andorra",
+    "abbreviation": "AD"
+  },
+  {
+    "name": "Argentina",
+    "abbreviation": "AR"
+  },
+  {
+    "name": "American Samoa",
+    "abbreviation": "AS"
+  },
+  {
+    "name": "Austria",
+    "abbreviation": "AT"
+  },
+  {
+    "name": "Australia",
+    "abbreviation": "AU"
+  },
+  {
+    "name": "Bangladesh",
+    "abbreviation": "BD"
+  },
+  {
+    "name": "Belgium",
+    "abbreviation": "BE"
+  },
+  {
+    "name": "Bulgaria",
+    "abbreviation": "BG"
+  },
+  {
+    "name": "Brazil",
+    "abbreviation": "BR"
+  },
+  {
+    "name": "Canada",
+    "abbreviation": "CA"
+  },
+  {
+    "name": "Switzerland",
+    "abbreviation": "CH"
+  },
+  {
+    "name": "Czech Republic",
+    "abbreviation": "CZ"
+  },
+  {
+    "name": "Germany",
+    "abbreviation": "DE"
+  },
+  {
+    "name": "Denmark",
+    "abbreviation": "DK"
+  },
+  {
+    "name": "Dominican Republic",
+    "abbreviation": "DO"
+  },
+  {
+    "name": "Spain",
+    "abbreviation": "ES"
+  },
+  {
+    "name": "Finland",
+    "abbreviation": "FI"
+  },
+  {
+    "name": "Faroe Islands",
+    "abbreviation": "FO"
+  },
+  {
+    "name": "France",
+    "abbreviation": "FR"
+  },
+  {
+    "name": "Great Britain",
+    "abbreviation": "GB"
+  },
+  {
+    "name": "French Guyana",
+    "abbreviation": "GF"
+  },
+  {
+    "name": "Guernsey",
+    "abbreviation": "GG"
+  },
+  {
+    "name": "Greenland",
+    "abbreviation": "GL"
+  },
+  {
+    "name": "Guadeloupe",
+    "abbreviation": "GP"
+  },
+  {
+    "name": "Guatemala",
+    "abbreviation": "GT"
+  },
+  {
+    "name": "Guam",
+    "abbreviation": "GU"
+  },
+  {
+    "name": "Guyana",
+    "abbreviation": "GY"
+  },
+  {
+    "name": "Croatia",
+    "abbreviation": "HR"
+  },
+  {
+    "name": "Hungary",
+    "abbreviation": "HU"
+  },
+  {
+    "name": "Isle of Man",
+    "abbreviation": "IM"
+  },
+  {
+    "name": "India",
+    "abbreviation": "IN"
+  },
+  {
+    "name": "Iceland",
+    "abbreviation": "IS"
+  },
+  {
+    "name": "Italy",
+    "abbreviation": "IT"
+  },
+  {
+    "name": "Jersey",
+    "abbreviation": "JE"
+  },
+  {
+    "name": "Japan",
+    "abbreviation": "JP"
+  },
+  {
+    "name": "Liechtenstein",
+    "abbreviation": "LI"
+  },
+  {
+    "name": "Sri Lanka",
+    "abbreviation": "LK"
+  },
+  {
+    "name": "Lithuania",
+    "abbreviation": "LT"
+  },
+  {
+    "name": "Luxembourg",
+    "abbreviation": "LU"
+  },
+  {
+    "name": "Monaco",
+    "abbreviation": "MC"
+  },
+  {
+    "name": "Moldavia",
+    "abbreviation": "MD"
+  },
+  {
+    "name": "Marshall Islands",
+    "abbreviation": "MH"
+  },
+  {
+    "name": "Macedonia",
+    "abbreviation": "MK"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "abbreviation": "MP"
+  },
+  {
+    "name": "Martinique",
+    "abbreviation": "MQ"
+  },
+  {
+    "name": "Mexico",
+    "abbreviation": "MX"
+  },
+  {
+    "name": "Malaysia",
+    "abbreviation": "MY"
+  },
+  {
+    "name": "Holland",
+    "abbreviation": "NL"
+  },
+  {
+    "name": "Norway",
+    "abbreviation": "NO"
+  },
+  {
+    "name": "New Zealand",
+    "abbreviation": "NZ"
+  },
+  {
+    "name": "Phillippines",
+    "abbreviation": "PH"
+  },
+  {
+    "name": "Pakistan",
+    "abbreviation": "PK"
+  },
+  {
+    "name": "Poland",
+    "abbreviation": "PL"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "abbreviation": "PM"
+  },
+  {
+    "name": "Puerto Rico",
+    "abbreviation": "PR"
+  },
+  {
+    "name": "Portugal",
+    "abbreviation": "PT"
+  },
+  {
+    "name": "French Reunion",
+    "abbreviation": "RE"
+  },
+  {
+    "name": "Russia",
+    "abbreviation": "RU"
+  },
+  {
+    "name": "Sweden",
+    "abbreviation": "SE"
+  },
+  {
+    "name": "Slovenia",
+    "abbreviation": "SI"
+  },
+  {
+    "name": "Svalbard & Jan Mayen Islands",
+    "abbreviation": "SJ"
+  },
+  {
+    "name": "Slovak Republic",
+    "abbreviation": "SK"
+  },
+  {
+    "name": "San Marino",
+    "abbreviation": "SM"
+  },
+  {
+    "name": "Thailand",
+    "abbreviation": "TH"
+  },
+  {
+    "name": "Turkey",
+    "abbreviation": "TR"
+  },
+  {
+    "name": "United States",
+    "abbreviation": "US"
+  },
+  {
+    "name": "Vatican",
+    "abbreviation": "VA"
+  },
+  {
+    "name": "Virgin Islands",
+    "abbreviation": "VI"
+  },
+  {
+    "name": "Mayotte",
+    "abbreviation": "YT"
+  },
+  {
+    "name": "South Africa",
+    "abbreviation": "ZA"
+  }
+]

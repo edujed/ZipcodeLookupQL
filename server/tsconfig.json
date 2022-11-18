@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "experimentalDecorators": false,
+    "emitDecoratorMetadata": false,
+    /* Modules */
+    "module": "commonjs",
+    "rootDir": "src",
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "node_modules/*"
+      ]
+    },
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    /* Type Checking */
+    "strict": false,
+    /* Completeness */
+    "skipLibCheck": true
+  }
+}
