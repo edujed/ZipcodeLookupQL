@@ -12,6 +12,11 @@ For production use, is need to setup **NODE_ENV** as **production**, and the *'n
 
 **The sever will start On port *'8080'*!** 
 
+#### To run the server tests:
+Inside server folder: 
+
+        $ npm run test 
+
 #### To start the server *(in development mode)*:
 Inside server folder: 
 
